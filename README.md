@@ -1,6 +1,9 @@
-### Hi there 👋, My name is Domingo
-#### Project manager of my private space
 ![hola](https://github.com/DomKiwi/Images/blob/5d613095f8451e8d84726bb357d96ba3dce238e0/DomKiwi.gif)
+
+### Hi there 👋
+My name is Domingo
+#### Project manager of my private space
+
 
 Aerospace Engineer 
 
