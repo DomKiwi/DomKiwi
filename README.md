@@ -5,7 +5,7 @@
 ### Hi everyone!👋  My name is **Domingo**
 #### Project manager of my private space
 
-**Aerospace Engineer **
+**Aerospace Engineer**
 
 Big data engineer as a hobby
 
