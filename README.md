@@ -1,5 +1,6 @@
 ![hola](https://github.com/DomKiwi/Images/blob/5d613095f8451e8d84726bb357d96ba3dce238e0/DomKiwi.gif)
-![hola](https://github.com/DomKiwi/Images/blob/5d955fb61d2d125cb79efbad37141c7592d02a15/2.gif)
+<!-- ![hola](https://github.com/DomKiwi/Images/blob/5d955fb61d2d125cb79efbad37141c7592d02a15/2.gif)
+-->
 
 ### Hi there 👋
 My name is Domingo
@@ -22,4 +23,4 @@ Skills: Matlab / Python / PLM / Autocad / Adina
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DomKiwi)  
 
-[<img src='https://github.com/DomKiwi/Images/blob/9b9c8ef0ddb7414e00d6310cb991c13f6a75c1b6/linkedin_logo.png' alt:'github'](https://www.linkedin.com/in/domingo-gallardo-mart%C3%ADnez-08101a244/)
+[<img src='https://github.com/DomKiwi/Images/blob/9b9c8ef0ddb7414e00d6310cb991c13f6a75c1b6/linkedin_logo.png'](https://www.linkedin.com/in/domingo-gallardo-mart%C3%ADnez-08101a244/)
