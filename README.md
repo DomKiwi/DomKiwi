@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+
+Link to [LinkedIn](https://www.linkedin.com/in/domingo-gallardo-mart%C3%ADnez-08101a244/)
 
 <!--
 **DomKiwi/DomKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
