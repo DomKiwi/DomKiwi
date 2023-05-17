@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Domingo
 #### Project manager of my private space
-![Project manager of my private space]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/DomKiwi/Images/blob/5d613095f8451e8d84726bb357d96ba3dce238e0/DomKiwi.gif))
+[https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/DomKiwi/Images/blob/5d613095f8451e8d84726bb357d96ba3dce238e0/DomKiwi.gif)
 
 Aerospace Engineer 
 
