@@ -20,5 +20,6 @@ Skills: Matlab / Python / PLM / Autocad / Adina
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DomKiwi)  
-[(https://github.com/DomKiwi/Images/blob/9fbbda7ea09498b81473c71d50b9c00791ebed20/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png)](https://www.linkedin.com/in/domingo-gallardo-mart%C3%ADnez-08101a244/)
+![https://github.com/DomKiwi/Images/blob/9fbbda7ea09498b81473c71d50b9c00791ebed20/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png](https://www.linkedin.com/in/domingo-gallardo-mart%C3%ADnez-08101a244/)
+
 
