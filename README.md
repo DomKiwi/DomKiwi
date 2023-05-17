@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Domingo
 #### Project manager of my private space
-![Project manager of my private space](https://www.canva.com/design/DAFjMCin76g/e5__ST-0Pyll5wzbrv40vg/edit?utm_content=DAFjMCin76g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Project manager of my private space](https://www.canva.com/design/DAFjMCin76g/e5__ST-0Pyll5wzbrv40vg/edit?utm_content=DAFjMCin76g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Aerospace Engineer 
 
