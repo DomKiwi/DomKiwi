@@ -15,6 +15,7 @@ You can look at my profile, if you are curious, here I let you some of my privat
 
 > I'm currently working on an automated program to invest in volatile currencies for profit, you can see my progress until I finish if you want some inspiration [here](https://github.com/DomKiwi/GitHub-Investment)
 
+Also here you can see several of my [certifications](https://github.com/DomKiwi/Certificates.git) as English level, Data anylisi workflow, etc.
 
 
 Skills: Matlab / Python / PLM / Autocad / Adina
