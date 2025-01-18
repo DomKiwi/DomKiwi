@@ -13,7 +13,6 @@ You can look at my profile, if you are curious, here I let you some of my privat
 - [Spanish league Football Bets](https://github.com/DomKiwi/Bets)
 - [Sorting Program to compile large amount of information in excel](https://github.com/DomKiwi/Full-Program-Filter-Obuu)
 
-> I'm currently working on an automated program to invest in volatile currencies for profit, you can see my progress until I finish if you want some inspiration [here](https://github.com/DomKiwi/GitHub-Investment)
 
 Also here you can see several of my [certifications](https://github.com/DomKiwi/Certificates.git) as English level, Data anylisi workflow, etc.
 
